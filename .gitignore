@@ -1,5 +1,9 @@
 # Compiled class file
 *.class
+target/
+.DS_Store
+/h2-lab.iml
+.idea/
 
 # Log file
 *.log
